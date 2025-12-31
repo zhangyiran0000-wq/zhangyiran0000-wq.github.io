@@ -25,18 +25,18 @@ Although illustrated here using **autonomous driving as a representative safety-
   </div>
   <!-- Description (RIGHT) -->
   <div class="demo-text">
-  **Summary:** The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test.
+  **Summary:** The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test, which is shown above.
   </div>
 </div>
 
-## Demo 2 — Adversarial Scene Generation (2025)
+## Demo 2 — Adversarial Scene Generation (2025, the vidoe clip is to be uploaded.)
 <div class="demo-row">
   <p align="center">
-    <img src="/images/Framework.jpg"
+    <img src="/images/Adversarial.jgp"
          alt="Adversarial design framework illustration"/>
   </p>
   
   <div class="demo-text">
-  The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test.
+  **Summary:** Targeting on the potention defect of the AI approach, we design adversarial scene generation algorithm to stress test the algorithm. Our priority is testing efficiency.
   </div>
 </div>
