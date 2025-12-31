@@ -24,7 +24,7 @@ Although illustrated here using **autonomous driving as a representative safety-
     <iframe
       width="100%"
       height="315"
-      src="https://www.youtube.com/embed/5tDlAgcQ_GA/edit"
+      src="https://www.youtube.com/embed/SlhSdPmNHF0"
       title="Adversarial scene generation demo"
       frameborder="0"
       allowfullscreen>
@@ -34,6 +34,6 @@ Although illustrated here using **autonomous driving as a representative safety-
   <!-- Description (RIGHT) -->
   <div style="flex: 1; min-width: 260px;" class="desc">
 
-  **Approach:** Using the game theoretical appraoch to generate natural scenes.
+  The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test.
   </div>
 </div>
