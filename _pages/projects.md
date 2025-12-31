@@ -23,7 +23,7 @@ Although illustrated here using **autonomous driving as a representative safety-
   <div style="flex: 1; min-width: 260px; text-align: center;">
     <iframe
       width="100%"
-      height="315"
+      height="100%"
       src="https://www.youtube.com/embed/SlhSdPmNHF0"
       title="Adversarial scene generation demo"
       frameborder="0"
