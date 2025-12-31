@@ -27,7 +27,7 @@ I treat “trustworthy” as a lifecycle:
 This mindset applies to many robotics settings (mobile robots, manipulation, drones, and other safety-critical autonomy), not just one domain.
 
 ## Experience (engineering mindset)
-Before my Ph.D., I worked as a software engineer at **ZTE**, developing **high-frequency algorithms (240kHz)** for 5G systems. That experience pushed me toward building systems that are **deployable, efficient, and testable**—not just good in a paper.
+Before my Ph.D., I worked as a software engineer at ZTE, developing **high-frequency algorithms (up to 240kHz)** for 5G systems. That experience pushed me toward building systems that are **deployable, efficient, and testable**—not just good in a paper.
 
 ## An Approach to Trustworthy AI
 My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes. Illustrated here using autonomous driving as a safety-critical testbed, but applicable to broader AI and robotic systems.
