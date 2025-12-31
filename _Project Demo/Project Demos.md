@@ -14,12 +14,8 @@ author_profile: false
 </p>
 
 **Overview.**  
-Rather than optimizing average-case performance, it emphasizes **adversarial stress testing**, **system adaptation**, and **human collaboration** to improve reliability under real-world uncertainty.
-
 Although illustrated here using **autonomous driving as a representative safety-critical domain**, the framework is intended to be **general** and has informed my work in human–machine interaction and embodied robotic systems.
  
-
-
 ## Demo 1 — Natural Scene Generation (2022)
 
 <div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
@@ -38,7 +34,6 @@ Although illustrated here using **autonomous driving as a representative safety-
   <!-- Description (RIGHT) -->
   <div style="flex: 1; min-width: 260px;" class="desc">
 
-  **Approach.**  
-  Using the game theoretical appraoch to generate natural scenes.
+  **Approach:** Using the game theoretical appraoch to generate natural scenes.
   </div>
 </div>
