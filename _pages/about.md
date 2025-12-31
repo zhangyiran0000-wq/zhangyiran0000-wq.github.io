@@ -7,14 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. researcher in robotics and autonomous systems at _Nanyang Technological University_, working at the intersection of trustworthy AI, autonomous driving, and human–machine collaboration. My research focuses on building intelligent systems that remain safe, robust, and cooperative under uncertainty, adversarial conditions, and real-world constraints.
+I’m a Ph.D. researcher at **Nanyang Technological University** working on **trustworthy AI for autonomous & robotic systems**—especially how to *expose, monitor, and manage failure modes* in safety-critical settings. :contentReference[oaicite:1]{index=1}
 
-My doctoral research focuses on trustworthy self-driving systems, including adversarial scene generation, online monitoring, and decision-making under uncertainty. Rather than optimizing average performance, I focus on exposing, monitoring, and managing failure modes.
+## Research focus
+My work sits at the intersection of:
 
-In parallel, I have worked on soft robotics, exoskeletons, and human–robot interfaces, which strongly influence how I view AI as an embodied, interactive system rather than a standalone model.
+- **Adversarial scene generation** to systematically surface rare/risky cases
+- **Online monitoring** to detect distribution shift and uncertainty at runtime
+- **Decision-making under uncertainty** for safer planning and control :contentReference[oaicite:2]{index=2}
 
-Before my Ph.D., I worked as a software engineer at _Zhongxing Telecommunication Equipment_, developing high-frequency algorithms (240kHz) for 5G systems. This experience shaped my engineering approach: AI systems must be deployable, resource-aware, and verifiable.
+## Current theme: “Trustworthy = failure-aware”
+Instead of optimizing average-case performance, I focus on **exposing**, **monitoring**, and **mitigating** failure modes. :contentReference[oaicite:3]{index=3}
 
+## Experience (why I care about deployment)
+Befo
 ## An Approach to Trustworthy AI
 My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes. Illustrated here using autonomous driving as a safety-critical testbed, but applicable to broader AI and robotic systems.
 <p align="center"> <img src="/images/Philo.jpg"
