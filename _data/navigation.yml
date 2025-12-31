@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /
     
-  - title: "Project Demos"
-    url: /Project Demos/ 
+  - title: "Project Demo"
+    url: /Project Demo/ 
     
   - title: "Publications"
     url: /publications/
