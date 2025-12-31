@@ -30,7 +30,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
 </div>
 
-## Demo 2 — Adversarial Scene Generation (2025, the vidoe clip is to be uploaded.)
+## Demo 2 — Adversarial Scene Generation (2025)
 <div class="demo-row">
   <p align="center">
     <img src="/images/Adversarial.jpg"
@@ -42,7 +42,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
 </div>
 
-## Demo 3 — Online Monitoring (2025, the vidoe clip is to be uploaded.)
+## Demo 3 — Online Monitoring & OOD Detection (2025)
 <div class="demo-row">
   <p align="center">
     <img src="/images/Monitor.jpg"
@@ -71,7 +71,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
 </div>
 
-## Demo 5 — High-level Human-machine Interaction (2023)
+## Demo 5 — High-Level Human–Machine Interaction (2025)
 <div class="demo-row">
   
   <!-- Video (LEFT) -->
