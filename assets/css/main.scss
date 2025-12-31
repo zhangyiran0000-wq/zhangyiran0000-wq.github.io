@@ -41,3 +41,39 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Two-column demo layout: left video, right text */
+.demo-row{
+  display:flex;
+  gap:24px;
+  align-items:flex-start;
+  flex-wrap:wrap;
+  margin: 18px 0 28px;
+}
+
+.demo-media{
+  flex: 1 1 520px;     /* grows, but prefers ~520px */
+  min-width: 320px;
+}
+
+.demo-text{
+  flex: 1 1 360px;
+  min-width: 280px;
+}
+
+.demo-title{
+  margin: 0 0 8px 0;
+}
+
+.demo-meta{
+  margin: 0 0 10px 0;
+  font-size: 0.95em;
+  opacity: 0.9;
+}
+
+/* Responsive 16:9 video */
+.video-embed{
+  width:100%;
+  aspect-ratio:16/9;
+  border:0;
+}
