@@ -16,7 +16,7 @@ Before my Ph.D., I worked as a software engineer at _Zhongxing Telecommunication
 In parallel, I have worked on soft robotics, exoskeletons, and human–robot interfaces, which strongly influence how I view AI as an embodied, interactive system rather than a standalone model.
 
 ## An Approach to Trustworthy AI
-My research philosophy is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes.
+My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes.
 <p align="center"> <img src="/images/Philo.jpg"
      alt="Adversarial design philosophy illustration"
      width="600" /> </p>
