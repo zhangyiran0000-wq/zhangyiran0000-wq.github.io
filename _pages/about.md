@@ -16,7 +16,7 @@ In parallel, I have worked on soft robotics, exoskeletons, and human–robot int
 Before my Ph.D., I worked as a software engineer at _Zhongxing Telecommunication Equipment_, developing high-frequency algorithms (240kHz) for 5G systems. This experience shaped my engineering approach: AI systems must be deployable, resource-aware, and verifiable.
 
 ## An Approach to Trustworthy AI
-My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes.
+My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes. Illustrated here using autonomous driving as a safety-critical testbed, but applicable to broader AI and robotic systems.
 <p align="center"> <img src="/images/Philo.jpg"
      alt="Adversarial design philosophy illustration"
      width="600" /> </p>
