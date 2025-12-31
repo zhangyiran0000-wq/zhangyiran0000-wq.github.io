@@ -7,20 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. researcher at **Nanyang Technological University** working on **trustworthy AI for autonomous & robotic systems**—especially how to *expose, monitor, and manage failure modes* in safety-critical settings. :contentReference[oaicite:1]{index=1}
+I’m a Ph.D. researcher at Nanyang Technological University working on **trustworthy AI for robotic and autonomous systems**. I care about making learning-based systems **reliable in the real world**: exposing failure modes, detecting them at runtime, and designing policies that handle uncertainty safely.
+- robust perception & decision-making
+- uncertainty estimation and monitoring
+- safety evaluation, testing, and simulation
+- ML systems that must work under real-world constraints
+
 
 ## Research focus
 My work sits at the intersection of:
 
-- **Adversarial scene generation** to systematically surface rare/risky cases
-- **Online monitoring** to detect distribution shift and uncertainty at runtime
-- **Decision-making under uncertainty** for safer planning and control :contentReference[oaicite:2]{index=2}
+- **Adversarial / stress testing**: generate rare, hard cases to reveal weaknesses
+- **Online monitoring**: detect distribution shift, uncertainty, and anomalies at runtime
+- **Decision-making under uncertainty**: safer planning/control when information is imperfect
 
-## Current theme: “Trustworthy = failure-aware”
-Instead of optimizing average-case performance, I focus on **exposing**, **monitoring**, and **mitigating** failure modes. :contentReference[oaicite:3]{index=3}
+## Design philosophy: failure-aware AI
+I treat “trustworthy” as a lifecycle:
+**find failures → measure them → reduce them → monitor them in deployment**.
+This mindset applies to many robotics settings (mobile robots, manipulation, drones, and other safety-critical autonomy), not just one domain.
 
-## Experience (why I care about deployment)
-Befo
+## Experience (engineering mindset)
+Before my Ph.D., I worked as a software engineer at **ZTE**, developing **high-frequency algorithms (240kHz)** for 5G systems. That experience pushed me toward building systems that are **deployable, efficient, and testable**—not just good in a paper.
+
 ## An Approach to Trustworthy AI
 My research is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes. Illustrated here using autonomous driving as a safety-critical testbed, but applicable to broader AI and robotic systems.
 <p align="center"> <img src="/images/Philo.jpg"
