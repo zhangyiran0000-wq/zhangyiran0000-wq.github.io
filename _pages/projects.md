@@ -1,12 +1,9 @@
 ---
-title: "Project Demos"
+title: "Selected Project Demos"
 permalink: /projects/
 layout: single
 author_profile: false
 ---
-
-## Selected Project Demos
-
 <p align="center">
   <img src="/images/Framework.jpg"
        alt="Adversarial design framework illustration"/>
@@ -27,6 +24,18 @@ Although illustrated here using **autonomous driving as a representative safety-
     </iframe>
   </div>
   <!-- Description (RIGHT) -->
+  <div class="demo-text">
+  **Summary:** The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test.
+  </div>
+</div>
+
+## Demo 2 — Adversarial Scene Generation (2025)
+<div class="demo-row">
+  <p align="center">
+    <img src="/images/Framework.jpg"
+         alt="Adversarial design framework illustration"/>
+  </p>
+  
   <div class="demo-text">
   The bayesian game-theoretic approach is used to generate natural scenes for testing. The scene genration algorithm is validated using the Turing test.
   </div>
