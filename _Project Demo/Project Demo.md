@@ -23,7 +23,6 @@ Although illustrated here using **autonomous driving as a representative safety-
 ## Demo 1 — Natural Scene Generation (2022)
 
 <div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
-
   <!-- Video (LEFT) -->
   <div style="flex: 1; min-width: 260px; text-align: center;">
     <iframe
@@ -39,15 +38,7 @@ Although illustrated here using **autonomous driving as a representative safety-
   <!-- Description (RIGHT) -->
   <div style="flex: 1; min-width: 260px;" class="desc">
 
-  **Problem.**  
-  Autonomous driving systems often perform well on average but fail under rare or adversarial conditions.
-
   **Approach.**  
-  I developed an adversarial scene generation algorithm that actively constructs challenging traffic scenarios, coupled with a human-style *Turing test* to assess whether failures are realistic and meaningful.
-
-  **Framework connection.**  
-  This demo illustrates the **Adversary** component of the framework by systematically exposing failure modes that are unlikely to appear in standard datasets.
-
+  Using the game theoretical appraoch to generate natural scenes.
   </div>
-
 </div>
