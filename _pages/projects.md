@@ -25,6 +25,7 @@ A framework for designing and evaluating **robust AI systems** through adversari
   </div>
   <!-- Description (RIGHT) -->
   <div class="demo-text">
+    
   **Summary:** Bayesian game-theoretic scene generation, validated via a Turing-test-style protocol, to produce realistic and challenging test cases for AI evaluation.
   </div>
 </div>
@@ -37,6 +38,7 @@ A framework for designing and evaluating **robust AI systems** through adversari
   </p>
   
   <div class="demo-text">
+    
   **Summary:** Targets AI weaknesses—including rarity, ambiguity, and high-risk conditions—using adversarial scene generation to efficiently expose failure modes and stress-test decision-making.
   </div>
 </div>
@@ -49,6 +51,7 @@ A framework for designing and evaluating **robust AI systems** through adversari
   </p>
   
   <div class="demo-text">
+    
   **Summary:** Runtime OOD detection and monitoring, leveraging generative models (e.g., GANs and diffusion) to synthesize counterfactuals and identify failure-prone states.
   </div>
 </div>
@@ -66,6 +69,7 @@ A framework for designing and evaluating **robust AI systems** through adversari
   </div>
   
   <div class="demo-text">
+    
   **Summary:** Human-in-the-loop subjective assessment for calibrating trust and enabling personalized system behavior.
   </div>
 </div>
@@ -83,6 +87,7 @@ A framework for designing and evaluating **robust AI systems** through adversari
   </div>
   
   <div class="demo-text">
+    
   **Summary:** High-level, natural interaction (e.g., gestures) allowing non-expert users to guide autonomous systems during rare or ambiguous situations.
   </div>
 </div>
