@@ -9,9 +9,8 @@ author_profile: false
        alt="Adversarial design framework illustration"/>
 </p>
 
-**Overview.**  
-A framework for designing and evaluating **robust AI systems** through adversarial testing, online adaptation, and human-in-the-loop collaboration.  
-Illustrated here using **autonomous driving as a safety-critical testbed**, but applicable to broader AI and robotic systems.
+**Overview:**  
+A framework for designing and evaluating **robust AI systems** through adversarial testing, online adaptation, and human-in-the-loop collaboration. Illustrated here using **autonomous driving as a safety-critical testbed**, but applicable to broader AI and robotic systems.
 
 ## Demo 1 — Natural Scene Generation (2022)
 
@@ -26,7 +25,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
   <!-- Description (RIGHT) -->
   <div class="demo-text">
-  Bayesian game-theoretic scene generation, validated via a Turing-test-style protocol, to produce realistic and challenging test cases for AI evaluation.
+  **Summary:** Bayesian game-theoretic scene generation, validated via a Turing-test-style protocol, to produce realistic and challenging test cases for AI evaluation.
   </div>
 </div>
 
@@ -38,7 +37,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </p>
   
   <div class="demo-text">
-  Targets AI weaknesses—including rarity, ambiguity, and high-risk conditions—using adversarial scene generation to efficiently expose failure modes and stress-test decision-making.
+  **Summary:** Targets AI weaknesses—including rarity, ambiguity, and high-risk conditions—using adversarial scene generation to efficiently expose failure modes and stress-test decision-making.
   </div>
 </div>
 
@@ -50,7 +49,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </p>
   
   <div class="demo-text">
-  Runtime OOD detection and monitoring, leveraging generative models (e.g., GANs and diffusion) to synthesize counterfactuals and identify failure-prone states.
+  **Summary:** Runtime OOD detection and monitoring, leveraging generative models (e.g., GANs and diffusion) to synthesize counterfactuals and identify failure-prone states.
   </div>
 </div>
 
@@ -67,7 +66,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
   
   <div class="demo-text">
-  Human-in-the-loop subjective assessment for calibrating trust and enabling personalized system behavior.
+  **Summary:** Human-in-the-loop subjective assessment for calibrating trust and enabling personalized system behavior.
   </div>
 </div>
 
@@ -84,7 +83,7 @@ Illustrated here using **autonomous driving as a safety-critical testbed**, but 
   </div>
   
   <div class="demo-text">
-  High-level, natural interaction (e.g., gestures) allowing non-expert users to guide autonomous systems during rare or ambiguous situations.
+  **Summary:** High-level, natural interaction (e.g., gestures) allowing non-expert users to guide autonomous systems during rare or ambiguous situations.
   </div>
 </div>
 
