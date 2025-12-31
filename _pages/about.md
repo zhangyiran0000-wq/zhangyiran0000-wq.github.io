@@ -14,3 +14,8 @@ My doctoral research focuses on trustworthy self-driving systems, including adve
 Before my Ph.D., I worked as a software engineer at _Zhongxing Telecommunication Equipment_, developing high-frequency algorithms (240kHz) for 5G systems. This experience shaped my engineering approach: AI systems must be deployable, resource-aware, and verifiable.
 
 In parallel, I have worked on soft robotics, exoskeletons, and human–robot interfaces, which strongly influence how I view AI as an embodied, interactive system rather than a standalone model.
+
+## An Approach to Trustworthy AI
+My research philosophy is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes.
+<p align="center"> <img src="assets/img/Philo.jpg" alt="Adversarial design philosophy illustration" width="400"/> </p>
+**Adversary** actively generates rare, risky, and adversarial scenarios to expose system weaknesses, using passive and active testing as well as objective and subjective evaluations. **Adaptor** continuously improves perception, decision-making, and control to mitigate the failures revealed by adversarial exposure. **Collaborator (Human-in-the-loop)** provides human assistance when uncertainty, ambiguity, or risk exceeds the autonomous system’s capability.
