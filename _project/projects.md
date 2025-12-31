@@ -1,6 +1,6 @@
 ---
 title: "Project Demos"
-permalink: /project1/
+permalink: /projects/
 layout: single
 author_profile: false
 ---
