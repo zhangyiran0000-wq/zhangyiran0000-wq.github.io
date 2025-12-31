@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-## Adversarial Design Framework (PhD Research)
+## Selected Project Demos
 
 <p align="center">
   <img src="/images/Framework.jpg"
