@@ -19,5 +19,9 @@ In parallel, I have worked on soft robotics, exoskeletons, and human–robot int
 My research philosophy is centered on **adversarial design**. Trustworthy AI is not achieved by average-case performance, but by continuously exposing and managing failure modes.
 <p align="center"> <img src="/images/Philo.jpg"
      alt="Adversarial design philosophy illustration"
-     width="400" /> </p>
-**Adversary** actively generates rare, risky, and adversarial scenarios to expose system weaknesses, using passive and active testing as well as objective and subjective evaluations. **Adaptor** continuously improves perception, decision-making, and control to mitigate the failures revealed by adversarial exposure. **Collaborator (Human-in-the-loop)** provides human assistance when uncertainty, ambiguity, or risk exceeds the autonomous system’s capability.
+     width="600" /> </p>
+-**Adversary** actively generates rare, risky, and adversarial scenarios to expose system weaknesses, using passive and active testing as well as objective and subjective evaluations. 
+
+-**Adaptor** continuously improves perception, decision-making, and control to mitigate the failures revealed by adversarial exposure. 
+
+-**Collaborator (Human-in-the-loop)** provides human assistance when uncertainty, ambiguity, or risk exceeds the autonomous system’s capability.
