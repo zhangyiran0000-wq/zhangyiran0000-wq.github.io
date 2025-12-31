@@ -12,7 +12,7 @@ main:
     url: /
     
   - title: "Project Demos"
-    url: /Project Demos/ 
+    url: /projects/ 
     
   - title: "Publications"
     url: /publications/
