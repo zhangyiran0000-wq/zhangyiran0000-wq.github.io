@@ -21,7 +21,7 @@ Although illustrated here using **autonomous driving as a representative safety-
   <!-- Video (LEFT) -->
   <div class="demo-media">
     <iframe class="video-embed"
-      src="https://www.youtube.com/embed/VIDEO_ID"
+      src="https://www.youtube.com/embed/SlhSdPmNHF0"
       title="Adversarial scenario generation demo"
       allowfullscreen>
     </iframe>
