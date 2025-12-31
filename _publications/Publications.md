@@ -1,11 +1,10 @@
 ---
-title: "Publications"
+title: "Selected Works"
 permalink: /publications/
 layout: single
 author_profile: true
 ---
 
-## Selected Works
 Full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=meNnECAAAAAJ&hl=en).
 * **Zhang, Y.**, Lou, S., Lou, B., Zhang, H., & Lv, C. (2025). Worst-case Adversarial Scene Generation Considering Both Risk and Rarity for Autonomous Driving Testing. Transportation Research Part C: Emerging Technologies.
 * **Zhang, Y.**, Hu Z., Yang, H., Lou S., & Lv, C. (2025). A Planner-agnostic Monitor for Autonomous Vehicles Behaviour Feasibility Using A Bayesian Discriminator. IEEE Transactions on Intelligent Transportation Systems. 
