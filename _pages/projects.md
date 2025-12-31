@@ -9,8 +9,7 @@ author_profile: false
 
 <p align="center">
   <img src="/images/Framework.jpg"
-       alt="Adversarial design framework illustration"
-       width="500" />
+       alt="Adversarial design framework illustration"/>
 </p>
 
 **Overview.**  
