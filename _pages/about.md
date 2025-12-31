@@ -20,6 +20,7 @@ My research philosophy is centered on **adversarial design**. Trustworthy AI is 
 <p align="center"> <img src="/images/Philo.jpg"
      alt="Adversarial design philosophy illustration"
      width="600" /> </p>
+     
 -**Adversary** actively generates rare, risky, and adversarial scenarios to expose system weaknesses, using passive and active testing as well as objective and subjective evaluations. 
 
 -**Adaptor** continuously improves perception, decision-making, and control to mitigate the failures revealed by adversarial exposure. 
