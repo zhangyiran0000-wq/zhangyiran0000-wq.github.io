@@ -1,66 +1,68 @@
 ---
 title: "Selected Robotics & Embodied Systems Demos"
-permalink: /projects/
+permalink: /robotics/
 layout: single
 author_profile: false
 ---
 
-## Demo 1 — Soft Robotics (2025)
+## Demo 1 — Soft Robotics & Metamaterials (2025)
 
 <div class="demo-row">
-  <!-- Video (LEFT) -->
-  <p align="center">
+  <div class="demo-media">
     <img src="/images/Presentation1.gif"
-         alt="Adversarial design framework illustration"/>
-  </p>
-  <!-- Description (RIGHT) -->
+         alt="Soft robotic structures enabled by metamaterials"
+         style="width:100%; height:auto;" />
+  </div>
+
   <div class="demo-text">
-    
-  **Summary:** Diverse soft robot design enbled by a novel metamaterial structure, the project is currently under review.
+  **Summary:** Novel metamaterial-enabled designs for diverse soft robotic structures, demonstrating adaptable morphology and compliant interaction.
   </div>
 </div>
+
+---
 
 ## Demo 2 — Robot Catching & Throwing (2022)
+
 <div class="demo-row">
-  <p align="center">
-    <img src="/images/TrowCatchgif
-         alt="Adversarial design framework illustration"/>
-  </p>
-  
+  <div class="demo-media">
+    <img src="/images/ThrowCatch.gif"
+         alt="Robot catching and throwing demonstration"
+         style="width:100%; height:auto;" />
+  </div>
+
   <div class="demo-text">
-    
-  **Summary:** Robot catching and throwing algorithms are desgined in order to expanding working range.
+  **Summary:** Control algorithms for robotic catching and throwing, designed to extend the effective workspace and enable dynamic manipulation.
   </div>
 </div>
 
-## Demo 3 — Robot Demostration Interface (2022)
+---
+
+## Demo 3 — Robot Demonstration Interface (2022)
+
 <div class="demo-row">
-  <p align="center">
+  <div class="demo-media">
     <img src="/images/Monitor.jpg"
-         alt="Adversarial design framework illustration"/>
-  </p>
-  
+         alt="Robot demonstration and teaching interface"
+         style="width:100%; height:auto;" />
+  </div>
+
   <div class="demo-text">
-    
-  **Summary:** To naturally .
+  **Summary:** A natural robot demonstration interface enabling intuitive task teaching and human–robot interaction.
   </div>
 </div>
 
-## Demo 4 — Diverse Robotics (before 2019)
+---
+
+## Demo 4 — Diverse Robotic Systems (Before 2019)
+
 <div class="demo-row">
-  
-  <!-- Video (LEFT) -->
-  <p align="center">
+  <div class="demo-media">
     <img src="/images/Snake.gif"
-         alt="Adversarial design framework illustration"/>
-  </p
-  
+         alt="Collection of diverse robotic systems"
+         style="width:100%; height:auto;" />
+  </div>
+
   <div class="demo-text">
-    
-  **Summary:** I desgined more than 8 robots including two-wheel self-balancing vehicle, snake robot, UGV, UAV, and exoskeleton.
+  **Summary:** Design and prototyping of over eight robotic systems, including a self-balancing two-wheel vehicle, snake robot, UGV, UAV, and exoskeleton.
   </div>
 </div>
-
-
-
-
