@@ -10,13 +10,10 @@
 main:
   - title: "About"
     url: /
-    
-  - title: "Project Demos"
-    url: /projects/ 
-    
+  - title: "AI Systems Demos"
+    url: /projects/
+  - title: "Robotics & Embodied Systems"
+    url: /robotics/
   - title: "Publications"
     url: /publications/
 
-  # - title: "CV"
-  #   url: /cv-json/
-    
