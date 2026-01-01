@@ -25,7 +25,7 @@ author_profile: false
 
 <div class="demo-row">
   <div class="demo-media">
-    <img src="/images/ThrowCatch.gif"
+    <img src="/images/TrowCatch.gif"
          alt="Robot catching and throwing demonstration"
          style="width:100%; height:auto;" />
   </div>
@@ -41,8 +41,8 @@ author_profile: false
 
 <div class="demo-row">
   <div class="demo-media">
-    <img src="/images/Monitor.jpg"
-         alt="Robot demonstration and teaching interface"
+    <img src="/images/DemoStra.gif"
+         alt="Collection of diverse robotic systems"
          style="width:100%; height:auto;" />
   </div>
 

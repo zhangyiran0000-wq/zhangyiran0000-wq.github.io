@@ -41,39 +41,94 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* =========================================================
+   Demo layout: left media, right text
+   ========================================================= */
 
-/* Two-column demo layout: left video, right text */
-.demo-row{
-  display:flex;
-  gap:24px;
-  align-items:flex-start;
-  flex-wrap:wrap;
-  margin: 18px 0 28px;
+.demo-row {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+  padding: 22px 0;
+  margin: 0;
+  border-bottom: 1px solid #eaeaea;
 }
 
-.demo-media{
-  flex: 1 1 520px;     /* grows, but prefers ~520px */
+/* Left column: video / image */
+.demo-media {
+  flex: 1 1 520px;
   min-width: 320px;
 }
 
-.demo-text{
+/* Right column: text */
+.demo-text {
   flex: 1 1 360px;
   min-width: 280px;
+
+  font-size: 0.95rem;
+  line-height: 1.55;
 }
 
-.demo-title{
-  margin: 0 0 8px 0;
+/* Paragraph spacing inside demo text */
+.demo-text p {
+  margin: 0.25em 0 0.65em 0;
 }
 
-.demo-meta{
-  margin: 0 0 10px 0;
-  font-size: 0.95em;
-  opacity: 0.9;
+/* Emphasis for labelled signals (Problem / Method / Signal) */
+.demo-text strong {
+  font-weight: 600;
+  color: #111;
 }
 
-/* Responsive 16:9 video */
-.video-embed{
-  width:100%;
-  aspect-ratio:16/9;
-  border:0;
+/* Optional small meta text (e.g. "Video coming soon") */
+.demo-meta {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* =========================================================
+   Media handling
+   ========================================================= */
+
+/* Responsive 16:9 iframe (YouTube / video) */
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 6px;
+}
+
+/* Images inside demo-media */
+.demo-media img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* =========================================================
+   Headings above demos
+   ========================================================= */
+
+.page__content h2,
+.page__content h3 {
+  margin-top: 2.2em;
+  margin-bottom: 0.6em;
+}
+
+/* =========================================================
+   Mobile adjustments
+   ========================================================= */
+
+@media (max-width: 768px) {
+  .demo-row {
+    gap: 16px;
+    padding: 18px 0;
+  }
+
+  .demo-text {
+    font-size: 0.95rem;
+  }
 }
