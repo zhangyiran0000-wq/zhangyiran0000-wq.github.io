@@ -13,6 +13,7 @@ I’m a Ph.D. researcher at Nanyang Technological University working on **trustw
 - safety evaluation, testing, and simulation
 - ML systems that must work under real-world constraints
 
+_I am actively seeking AI or robotics roles, with a focus on autonomous systems and trustworthy AI. I am open to both industry and research opportunities—please feel free to contact me if my experience is a good fit._
 
 ## Research focus
 My work sits at the intersection of:
