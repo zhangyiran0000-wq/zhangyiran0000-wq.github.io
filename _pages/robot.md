@@ -14,9 +14,11 @@ author_profile: false
          style="width:100%; height:auto;" />
   </div>
 
-  <div class="demo-text">
-  **Summary:** Novel metamaterial-enabled designs for diverse soft robotic structures, demonstrating adaptable morphology and compliant interaction.
-  </div>
+<div class="demo-text">
+  <p><strong>Method:</strong> Metamaterial-enabled soft robotic design.</p>
+  <p><strong>Signal:</strong> Achieves simultaneous stiffness modulation and actuation.</p>
+</div>
+
 </div>
 
 ---
@@ -30,9 +32,12 @@ author_profile: false
          style="width:100%; height:auto;" />
   </div>
 
-  <div class="demo-text">
-  **Summary:** Control algorithms for robotic catching and throwing, designed to extend the effective workspace and enable dynamic manipulation.
-  </div>
+<div class="demo-text">
+  <p><strong>Problem:</strong> Dynamic manipulation beyond static workspaces.</p>
+  <p><strong>Method:</strong> Control algorithms for robotic catching and throwing.</p>
+  <p><strong>Signal:</strong> Extends effective manipulation range under dynamic conditions.</p>
+</div>
+
 </div>
 
 ---
@@ -46,9 +51,12 @@ author_profile: false
          style="width:100%; height:auto;" />
   </div>
 
-  <div class="demo-text">
-  **Summary:** A natural robot demonstration interface enabling intuitive task teaching and human–robot interaction.
-  </div>
+<div class="demo-text">
+  <p><strong>Problem:</strong> Efficient robot task teaching.</p>
+  <p><strong>Method:</strong> Natural demonstration-based interface.</p>
+  <p><strong>Signal:</strong> Enables intuitive human–robot interaction.</p>
+</div>
+
 </div>
 
 ---
@@ -62,7 +70,8 @@ author_profile: false
          style="width:100%; height:auto;" />
   </div>
 
-  <div class="demo-text">
-  **Summary:** Design and prototyping of over eight robotic systems, including a self-balancing two-wheel vehicle, snake robot, UGV, UAV, and exoskeleton.
-  </div>
+<div class="demo-text">
+  <p><strong>Method:</strong> Design and prototyping of diverse robotic systems.</p>
+  <p><strong>Signal:</strong> Broad hands-on experience across mobile, articulated, and wearable robots.</p>
+</div>
 </div>
