@@ -1,5 +1,5 @@
 ---
-title: "Selected Project Demos"
+title: "Selected AI Systems Demos"
 permalink: /projects/
 layout: single
 author_profile: false
