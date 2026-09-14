@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 2 20 20"><title>OOjs_UI_icon_academic-progressive</title><path d="M12.13,14,12,14l-.13,0L7,12.63V16c0,1.1,2.24,2,5,2s5-.9,5-2V12.63Z" fill="#36c"/><path d="M21.13,9.52l-9-2.5a.39.39,0,0,0-.26,0l-9,2.5a.5.5,0,0,0,0,1l9,2.5L12,13l.13,0,9-2.5a.5.5,0,0,0,0-1Z" fill="#36c"/><path d="M19.5,14.5a1,1,0,0,0-.5-.85V10H18v3.65a1,1,0,0,0-.5.85,1,1,0,0,0,.45.81L17.5,18c0,.37.45.67,1,.67s1-.3,1-.67l-.45-2.69A1,1,0,0,0,19.5,14.5Z" fill="#36c"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Yiran Zhang — octopus</title>
+  <rect width="64" height="64" rx="16" fill="#f2edff"/>
+  <g fill="none" stroke="#7352c7" stroke-width="5" stroke-linecap="round">
+    <path d="M20 32C12 34 7 31 8 26"/>
+    <path d="M18 36C8 35 4 42 10 45"/>
+    <path d="M22 39C12 41 12 53 18 52"/>
+    <path d="M27 41C22 47 23 57 28 55"/>
+    <path d="M44 32C52 34 57 31 56 26"/>
+    <path d="M46 36C56 35 60 42 54 45"/>
+    <path d="M42 39C52 41 52 53 46 52"/>
+    <path d="M37 41C42 47 41 57 36 55"/>
+  </g>
+  <path d="M16 29C16 16 22 8 32 8S48 16 48 29C48 40 41 45 32 45S16 40 16 29" fill="#7352c7"/>
+  <ellipse cx="25" cy="27" rx="3" ry="4" fill="#fff"/>
+  <ellipse cx="39" cy="27" rx="3" ry="4" fill="#fff"/>
+  <circle cx="25.5" cy="28" r="1.5" fill="#30204f"/>
+  <circle cx="38.5" cy="28" r="1.5" fill="#30204f"/>
+  <path d="M29 35Q32 38 35 35" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+</svg>

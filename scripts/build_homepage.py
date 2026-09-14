@@ -152,7 +152,7 @@ def build():
                    service='\n'.join(f'<li>{esc(name)}</li>' for name in data['service']))
     template = Template((ROOT / 'scripts/homepage.template.html').read_text(encoding='utf-8'))
     document = '\n'.join(line.rstrip() for line in template.substitute(profile).splitlines()) + '\n'
-    frontmatter = '---\nlayout: null\npermalink: /\ntitle: "Yiran Zhang | AI Agent Evaluation & Robotics"\nredirect_from:\n  - /about/\n  - /about.html\n---\n'
+    frontmatter = '---\nlayout: null\npermalink: /\ntitle: "Yiran Zhang | AI Evaluation & Reliability"\nredirect_from:\n  - /about/\n  - /about.html\n---\n'
     return frontmatter + document, document
 
 
@@ -181,7 +181,8 @@ def main():
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(ROOT / 'assets' / name, dest)
         (preview / 'images').mkdir(exist_ok=True)
-        shutil.copy2(ROOT / 'images/favicon.svg', preview / 'images/favicon.svg')
+        for name in ('favicon.svg', 'favicon.ico', 'apple-touch-icon-180x180.png'):
+            shutil.copy2(ROOT / 'images' / name, preview / 'images' / name)
         for route, anchor in [('projects', 'research'), ('robotics', 'projects'), ('publications', 'publications'), ('about', 'about')]:
             destination = preview / route
             destination.mkdir(exist_ok=True)

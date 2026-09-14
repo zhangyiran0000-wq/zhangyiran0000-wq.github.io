@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yiran Zhang"
 title_separator          : "-"
 name                     : &name "Yiran Zhang"
-description              : &description "AI Agent Evaluation • Trustworthy AI • Robotics"
+description              : &description "AI Evaluation & Reliability"
 url                      : "https://zhangyiran0000-wq.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yiran Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "AI agent evaluation, trustworthy AI, and robotics"
+  bio              : "AI evaluation and reliability"
   location         : "Singapore"
   employer         :
   uri              : # URL
