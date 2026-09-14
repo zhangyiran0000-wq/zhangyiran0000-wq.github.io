@@ -1,0 +1,275 @@
+{
+  "profile": {
+    "name": "Yiran Zhang",
+    "position": "AI agent evaluation",
+    "affiliation": "Nanyang Technological University",
+    "location": "Singapore",
+    "email": "yiran003@e.ntu.edu.sg",
+    "scholar": "https://scholar.google.com/citations?user=meNnECAAAAAJ&hl=en",
+    "linkedin": "https://www.linkedin.com/in/yiran-zhang-b19151221/",
+    "url": "https://zhangyiran0000-wq.github.io",
+    "intro": "I work on AI agent evaluation. My research background spans adversarial testing, uncertainty monitoring, and human–machine collaboration, alongside hands-on work with robotic systems.",
+    "context": "My research at Nanyang Technological University has explored how to expose failures, assess reliability, and support decisions under uncertainty in autonomous systems.",
+    "availability": "I am also interested in opportunities in robotics and embodied intelligence.",
+    "portrait_source": "Resource/Figures/Image_20260915012719_126_40.png"
+  },
+  "research": [
+    {
+      "id": "ood-planning",
+      "title": "OOD-Aware Joint Prediction and Planning for Autonomous Driving with Contrastive Learning and Reconstruction-Based Filtering",
+      "authors": [
+        "Yiran Zhang",
+        "Hui Shi",
+        "Shanhe Lou",
+        "Chen Lv"
+      ],
+      "venue": "Under review",
+      "category": "Prediction & planning",
+      "figure": "1",
+      "summary": "Counterfactual training, contrastive similarity, and reconstruction errors help identify unreliable prediction-and-planning candidates. The best variant achieved 85.3% successful accomplishment in the aggregated evaluation; conservative fallback can still cause unnecessary stops.",
+      "highlight": "Filtering unreliable plans."
+    },
+    {
+      "id": "robust-guardian",
+      "title": "A Robust Guardian for Autonomous Driving with Game-Theoretic and Diffusion Counterfactuals",
+      "authors": [
+        "Yiran Zhang",
+        "Shanhe Lou",
+        "Hui Shi",
+        "Chen Lv"
+      ],
+      "venue": "Transportation Research Part C",
+      "year": "2026",
+      "category": "Runtime monitoring",
+      "figure": "2",
+      "paper": "https://www.sciencedirect.com/science/article/pii/S0968090X26004523",
+      "summary": "Game-theoretic and diffusion counterfactuals train a guardian to detect unfamiliar situations and support contingency re-planning. Evaluation covers multiple datasets, traffic environments, and three planner types.",
+      "highlight": "A monitor that knows its own uncertainty."
+    },
+    {
+      "id": "adversarial-testing",
+      "title": "Adversarial Traffic Scene Generation Considering Harm, Rarity, and Ambiguity for Autonomous Driving Testing",
+      "authors": [
+        "Yiran Zhang",
+        "Shanhe Lou",
+        "Baichuan Lou",
+        "Haitao Zhang",
+        "Chen Lv"
+      ],
+      "venue": "Transportation Research Part C",
+      "year": "2025",
+      "category": "Adversarial testing",
+      "figure": "3",
+      "paper": "https://www.sciencedirect.com/science/article/abs/pii/S0968090X25004309",
+      "summary": "Adversarial scenes target harm, rarity, and ambiguity, combining game-theoretic interactions with uncertainty-based objectives. Evaluations test how effectively these scenes expose vulnerabilities in both optimization-based and learning-based planners.",
+      "highlight": "Stress tests beyond average-case performance."
+    },
+    {
+      "id": "monitorgan",
+      "title": "A Planner-agnostic Monitor for Behaviour Feasibility of Autonomous Vehicles Using a Bayesian Discriminator",
+      "authors": [
+        "Yiran Zhang",
+        "Zhongxu Hu",
+        "Haohan Yang",
+        "Shanhe Lou",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": "2025",
+      "category": "Runtime monitoring",
+      "figure": "6",
+      "paper": "https://ieeexplore.ieee.org/abstract/document/11063426",
+      "summary": "MonitorGAN uses a Bayesian discriminator to assess plan feasibility and estimate its own uncertainty, without real outlier exposure during training. Cross-dataset experiments cover learning-based, polynomial-based, and optimization-based planners.",
+      "highlight": "Reliability checks across different planners."
+    },
+    {
+      "id": "interactive-prediction",
+      "title": "Interactive Prediction and Decision-Making for Autonomous Vehicles: Online Active Learning with Traffic Entropy Minimization",
+      "authors": [
+        "Yiran Zhang",
+        "Shanhe Lou",
+        "Peng Hang",
+        "Wenhui Huang",
+        "Lie Yang",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": "2024",
+      "category": "Adaptation & interaction",
+      "figure": "5",
+      "paper": "https://ieeexplore.ieee.org/abstract/document/10578558",
+      "summary": "Online learning updates a fixed predictor as new interactions unfold, while traffic-entropy minimization encourages more predictable decisions. Human-in-the-loop and cross-dataset experiments evaluate reliability under uncertain road-user behaviour.",
+      "highlight": "Adapting predictions from partial feedback."
+    },
+    {
+      "id": "haptic-collaboration",
+      "title": "Socially-Compliant Hierarchical Human-Vehicle Collaboration with Multimodal Haptic Steering",
+      "authors": [
+        "Yiran Zhang",
+        "Shanhe Lou",
+        "Zhongxu Hu",
+        "Jieyu Zhu",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": "2025",
+      "category": "Human–machine collaboration",
+      "figure": "8",
+      "paper": "https://ieeexplore.ieee.org/abstract/document/11033211",
+      "summary": "A shared-driving framework combines interaction-aware prediction, human guidance, and haptic steering. Human-in-the-loop experiments assess human–machine conflict and safety under dynamically allocated control authority.",
+      "highlight": "Connecting human decisions with control feedback."
+    },
+    {
+      "title": "Human-Machine Cooperative Decision-making and Planning for Automated Vehicles Using Spatial Projection of Hand Gestures",
+      "authors": [
+        "Yiran Zhang",
+        "Zhongxu Hu",
+        "Peng Hang",
+        "Shanhe Lou",
+        "Chen Lv"
+      ],
+      "venue": "Advanced Engineering Informatics",
+      "year": "2024",
+      "paper": "https://www.sciencedirect.com/science/article/abs/pii/S1474034624005123",
+      "id": "gesture-collaboration",
+      "category": "Human–machine collaboration",
+      "figure": "4",
+      "youtube": "H9cAbarbf9A",
+      "summary": "Hand gestures are projected onto the road to guide cooperative decision-making and planning. Experiments compare driving performance and physical and mental workload with conventional manual guidance.",
+      "highlight": "High-level guidance through a visual interface."
+    },
+    {
+      "id": "shutoko-driving",
+      "title": "Shutoko Highway: Autonomous Driving & Human–Machine Interface",
+      "category": "Human–machine interaction",
+      "venue": "Systems demonstration",
+      "youtube": "5Hrn1QnlJYI",
+      "summary": "An integrated autonomous-driving and human–machine interface demonstration. The project investigates situations in which passengers do not trust the driving algorithm, with the aim of informing more personalized driving behaviour. The work includes the driving algorithm and the interaction interfaces."
+    },
+    {
+      "id": "naturalistic-testing",
+      "title": "Human-like Interactive Behavior Generation for Autonomous Vehicles: A Bayesian Game-theoretic Approach with Turing Test",
+      "authors": [
+        "Yiran Zhang",
+        "Peng Hang",
+        "Chao Huang",
+        "Chen Lv"
+      ],
+      "venue": "Advanced Intelligent Systems",
+      "year": "2022",
+      "category": "Naturalistic testing",
+      "figure": "7",
+      "youtube": "SlhSdPmNHF0",
+      "paper": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100211",
+      "summary": "A Bayesian game model captures road-user interaction under uncertain intentions, including probing behaviour. Simulation experiments and Turing tests evaluate the human-likeness of the generated scenes.",
+      "highlight": "Human-like behaviour for interactive testing."
+    }
+  ],
+  "projects": [
+    {
+      "id": "metamaterial-fabrics",
+      "title": "Metamaterial Fabrics",
+      "category": "Soft robotics",
+      "venue": "Under review",
+      "video": "metamaterial-fabrics",
+      "summary": "",
+      "source": "Presentation1.gif"
+    },
+    {
+      "id": "robot-catching",
+      "title": "Robot Throwing & Catching",
+      "category": "Dynamic manipulation",
+      "year": "2022",
+      "venue": "Independent project",
+      "video": "robot-catching",
+      "summary": "A robotic-arm demonstration exploring how throwing and catching a tennis ball can extend manipulation beyond the arm’s physical reach. Developed independently.",
+      "source": "TrowCatch.gif"
+    },
+    {
+      "id": "teleoperation",
+      "title": "Robot Teleoperation Interface",
+      "category": "Human–robot interaction",
+      "year": "2022",
+      "venue": "Robotics project",
+      "video": "teleoperation",
+      "summary": "A demonstration of an interface for remotely guiding a robotic arm.",
+      "source": "DemoStra.gif"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Human-cyber-physical system for industry 5.0: A review from a human-centric perspective",
+      "authors": [
+        "S. Lou",
+        "Z. Hu",
+        "Yiran Zhang",
+        "Y. Feng",
+        "M. Zhou",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": "2024",
+      "paper": "https://ieeexplore.ieee.org/abstract/document/10424976/"
+    },
+    {
+      "title": "A human-cyber-physical system enabled sequential disassembly planning approach for a human-robot collaboration cell in Industry 5.0",
+      "authors": [
+        "S. Lou",
+        "Yiran Zhang",
+        "R. Tan",
+        "Chen Lv"
+      ],
+      "venue": "Robotics and Computer-Integrated Manufacturing",
+      "year": "2024",
+      "paper": "https://www.sciencedirect.com/science/article/abs/pii/S0736584523001813"
+    },
+    {
+      "title": "A Novel Human-Machine Collaboration Approach for Autonomous Driving with Hand Gesture-based Guidance",
+      "authors": [
+        "Yiran Zhang",
+        "Z. Hu",
+        "Chen Lv"
+      ],
+      "venue": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+      "year": "2023"
+    },
+    {
+      "title": "Toward human-centered automated driving: A novel spatiotemporal vision transformer-enabled head tracker",
+      "authors": [
+        "Z. Hu",
+        "Yiran Zhang",
+        "Y. Xing",
+        "Y. Zhao",
+        "D. Cao",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Vehicular Technology Magazine",
+      "year": "2022",
+      "paper": "https://ieeexplore.ieee.org/abstract/document/9694454/"
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Teaching Assistant · Autonomous Driving",
+      "institution": "Nanyang Technological University",
+      "dates": "2024–2025",
+      "description": "Supported course instruction, tutorials, student projects, and assessment in autonomous-driving simulation and human–machine interfaces."
+    },
+    {
+      "title": "Final-year Project Supervision",
+      "description": "Supervised multiple final-year projects in autonomous driving and related AI applications."
+    }
+  ],
+  "service": [
+    "IEEE Transactions on Intelligent Transportation Systems",
+    "IEEE Transactions on Human-Machine Systems",
+    "IEEE Transactions on Automation Science and Engineering",
+    "IEEE Transactions on Intelligent Vehicles",
+    "IEEE Intelligent Transportation Systems Magazine",
+    "IEEE/CAA Journal of Automatica Sinica",
+    "IEEE Intelligent Vehicles Symposium",
+    "Journal of Field Robotics",
+    "SAE International Journal of Vehicle Dynamics, Stability, and NVH",
+    "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering"
+  ]
+}

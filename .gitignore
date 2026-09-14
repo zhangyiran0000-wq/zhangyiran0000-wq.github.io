@@ -5,6 +5,10 @@ _site/
 # Ignore the directory for local files during development
 local/
 
+# Private source material and extracted notes. Optimized public assets live in assets/media.
+Resource/
+__pycache__/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
