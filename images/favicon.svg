@@ -1,20 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Yiran Zhang — octopus</title>
-  <rect width="64" height="64" rx="16" fill="#f2edff"/>
-  <g fill="none" stroke="#7352c7" stroke-width="5" stroke-linecap="round">
-    <path d="M20 32C12 34 7 31 8 26"/>
-    <path d="M18 36C8 35 4 42 10 45"/>
-    <path d="M22 39C12 41 12 53 18 52"/>
-    <path d="M27 41C22 47 23 57 28 55"/>
-    <path d="M44 32C52 34 57 31 56 26"/>
-    <path d="M46 36C56 35 60 42 54 45"/>
-    <path d="M42 39C52 41 52 53 46 52"/>
-    <path d="M37 41C42 47 41 57 36 55"/>
+  <title>Pink octopus</title>
+  <defs>
+    <linearGradient id="pink" x1="0" y1="0" x2="0.2" y2="1">
+      <stop stop-color="#ffc0d6"/>
+      <stop offset="1" stop-color="#f477a6"/>
+    </linearGradient>
+  </defs>
+  <!-- Eight short, rounded arms, with the outer pair waving. -->
+  <g fill="none" stroke="#df5b91" stroke-width="9" stroke-linecap="round">
+    <path d="M17 36Q5 41 6 32M20 40Q9 48 14 51M25 43Q17 54 23 55M29 44Q25 59 30 57M35 44Q39 59 34 57M39 43Q47 54 41 55M44 40Q55 48 50 51M47 36Q59 41 58 32"/>
   </g>
-  <path d="M16 29C16 16 22 8 32 8S48 16 48 29C48 40 41 45 32 45S16 40 16 29" fill="#7352c7"/>
-  <ellipse cx="25" cy="27" rx="3" ry="4" fill="#fff"/>
-  <ellipse cx="39" cy="27" rx="3" ry="4" fill="#fff"/>
-  <circle cx="25.5" cy="28" r="1.5" fill="#30204f"/>
-  <circle cx="38.5" cy="28" r="1.5" fill="#30204f"/>
-  <path d="M29 35Q32 38 35 35" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <g fill="none" stroke="#f58ab2" stroke-width="6" stroke-linecap="round">
+    <path d="M17 36Q5 41 6 32M20 40Q9 48 14 51M25 43Q17 54 23 55M29 44Q25 59 30 57M35 44Q39 59 34 57M39 43Q47 54 41 55M44 40Q55 48 50 51M47 36Q59 41 58 32"/>
+  </g>
+  <path d="M12 28C12 13 20 5 32 5S52 13 52 28C52 40 44 47 32 47S12 40 12 28Z" fill="url(#pink)" stroke="#df5b91" stroke-width="1.5"/>
+  <path d="M19 21Q21 13 29 12" fill="none" stroke="#ffe2ec" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="20" cy="35" rx="4" ry="2.5" fill="#ed6298" opacity=".65"/>
+  <ellipse cx="44" cy="35" rx="4" ry="2.5" fill="#ed6298" opacity=".65"/>
+  <ellipse cx="24" cy="30" rx="2.3" ry="3" fill="#633449"/>
+  <ellipse cx="40" cy="30" rx="2.3" ry="3" fill="#633449"/>
+  <circle cx="23.3" cy="29" r=".7" fill="#fff5fa"/>
+  <circle cx="39.3" cy="29" r=".7" fill="#fff5fa"/>
+  <path d="M29 35Q32 39 35 35" fill="none" stroke="#633449" stroke-width="1.8" stroke-linecap="round"/>
 </svg>
