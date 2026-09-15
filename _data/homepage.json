@@ -26,8 +26,8 @@
       "venue": "Under review",
       "category": "Prediction & planning",
       "figure": "1",
-      "summary": "Counterfactual training, contrastive similarity, and reconstruction errors help identify unreliable prediction-and-planning candidates. The best variant achieved 85.3% successful accomplishment in the aggregated evaluation; conservative fallback can still cause unnecessary stops.",
-      "highlight": "Filtering unreliable plans."
+      "summary": "A new joint prediction-and-planning (PnP) algorithm that explicitly accounts for the limited coverage of its training data. Trained on Argoverse 2 and evaluated across five datasets in closed-loop tests, including adversarial scenarios.",
+      "highlight": "Accounting for training data limitations."
     },
     {
       "id": "robust-guardian",
